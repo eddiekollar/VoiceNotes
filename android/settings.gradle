@@ -1,0 +1,3 @@
+rootProject.name = 'VoiceNotes'
+
+include ':app'
